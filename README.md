@@ -26,7 +26,6 @@ Throughout this bootcamp, I aim to achieve the following goals:
 
 I will be documenting my progress through each module and project in this repository. Each section will include:
 
-- **Notes and Summaries**: Key takeaways and summaries from each lesson.
 - **Code Examples**: Code snippets and examples from exercises and projects.
 - **Projects**: Detailed documentation and analysis of each project, including the approach, methodology, and results.
 
