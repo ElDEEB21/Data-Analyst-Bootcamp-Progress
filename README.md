@@ -33,3 +33,5 @@ I will be documenting my progress through each module and project in this reposi
 
 The repository is structured to reflect the different modules and projects covered in the bootcamp. Each module has its own directory with subdirectories for individual lessons and projects.
 
+If you have any advice to me just contact me (: .
+
